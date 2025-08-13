@@ -1,0 +1,87 @@
+{
+  "": {
+    "dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/EchoScribe.d",
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/EchoScribe.o",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/master.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/App/ContentView.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/ContentView.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/ContentView.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/App/EchoScribeApp.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/EchoScribeApp.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/EchoScribeApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/EchoScribeApp.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/App/Info.plist": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/Info.plist.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/Info~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/Info.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/App/entitlements.mac.plist": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/entitlements.mac.plist.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/entitlements.mac~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/entitlements.mac.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/Core/AI/TranscriptionManager.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/TranscriptionManager.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/TranscriptionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/TranscriptionManager.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/Core/Audio/AudioRecordingManager.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/AudioRecordingManager.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/AudioRecordingManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/AudioRecordingManager.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/Core/Audio/PermissionManager.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/PermissionManager.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/PermissionManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/PermissionManager.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/Core/Database/EchoScribeDataModel.xcdatamodeld": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/EchoScribeDataModel.xcdatamodeld.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/EchoScribeDataModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/EchoScribeDataModel.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/Core/Database/NotesManager.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/NotesManager.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/NotesManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/NotesManager.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/Core/Database/SettingsManager.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/SettingsManager.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/SettingsManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/SettingsManager.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/UI/Views/FilesView.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/FilesView.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/FilesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/FilesView.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/UI/Views/NotesView.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/NotesView.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/NotesView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/NotesView.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/UI/Views/OnboardingView.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/OnboardingView.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/OnboardingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/OnboardingView.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/UI/Views/RecordingView.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/RecordingView.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/RecordingView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/RecordingView.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/UI/Views/SettingsView.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/SettingsView.swiftdeps"
+  },
+  "/Users/gripsockz/Coding Projects/EchoScribe-Premium/EchoScribe/UI/Views/SetupView.swift": {
+    "object": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/SetupView.swift.o",
+    "swiftmodule": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/SetupView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gripsockz/Coding Projects/EchoScribe-Premium/.build/arm64-apple-macosx/release/EchoScribe.build/SetupView.swiftdeps"
+  }
+}
