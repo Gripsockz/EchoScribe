@@ -340,3 +340,4 @@ For support and questions:
 ---
 
 **EchoScribe** - Transform your audio into intelligent notes with the power of AI.
+# Updated git configuration
