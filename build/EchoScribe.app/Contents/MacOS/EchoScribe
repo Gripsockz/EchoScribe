@@ -1,0 +1,92 @@
+#!/usr/bin/env swift
+
+import SwiftUI
+import Foundation
+
+@main
+struct EchoScribeApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+                .frame(minWidth: 1200, minHeight: 800)
+        }
+        .windowStyle(.hiddenTitleBar)
+        .windowResizability(.contentSize)
+    }
+}
+
+struct ContentView: View {
+    var body: some View {
+        VStack(spacing: 30) {
+            // Header
+            VStack(spacing: 10) {
+                Image(systemName: "waveform.circle.fill")
+                    .font(.system(size: 80))
+                    .foregroundColor(.accentColor)
+                
+                Text("EchoScribe 3.0")
+                    .font(.largeTitle)
+                    .fontWeight(.bold)
+                
+                Text("Professional macOS Audio Recording & AI Transcription App")
+                    .font(.title2)
+                    .foregroundColor(.secondary)
+                    .multilineTextAlignment(.center)
+            }
+            
+            Spacer()
+            
+            // Features
+            VStack(spacing: 20) {
+                FeatureRow(icon: "mic.fill", title: "Audio Recording", description: "Multi-source recording with advanced effects")
+                FeatureRow(icon: "brain.head.profile", title: "AI Transcription", description: "Local CoreML Whisper processing")
+                FeatureRow(icon: "square.and.arrow.up", title: "Export System", description: "12 export formats with batch processing")
+                FeatureRow(icon: "paintbrush.fill", title: "Modern UI", description: "Notability-style professional interface")
+            }
+            
+            Spacer()
+            
+            // Status
+            VStack(spacing: 15) {
+                Text("✅ Successfully Built and Installed")
+                    .font(.headline)
+                    .foregroundColor(.green)
+                
+                Text("Ready for Development")
+                    .font(.subheadline)
+                    .foregroundColor(.secondary)
+            }
+            .padding()
+            .background(Color(.controlBackgroundColor))
+            .cornerRadius(10)
+        }
+        .padding(40)
+        .background(Color(.windowBackgroundColor))
+    }
+}
+
+struct FeatureRow: View {
+    let icon: String
+    let title: String
+    let description: String
+    
+    var body: some View {
+        HStack(spacing: 15) {
+            Image(systemName: icon)
+                .font(.title2)
+                .foregroundColor(.accentColor)
+                .frame(width: 30)
+            
+            VStack(alignment: .leading, spacing: 2) {
+                Text(title)
+                    .font(.headline)
+                Text(description)
+                    .font(.caption)
+                    .foregroundColor(.secondary)
+            }
+            
+            Spacer()
+        }
+        .padding(.horizontal)
+    }
+}

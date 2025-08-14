@@ -1,0 +1,710 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.EchoScribe-arm64-apple-macosx16.0-debug.module" : {
+      "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "fileList" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/sources",
+      "importPath" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/EchoScribeApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/Info.plist"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/entitlements.mac.plist"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/AI/TranscriptionManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/AudioEffects.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/AudioRecordingManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/PermissionManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/EchoScribeDataModel.xcdatamodeld"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/NotesManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/SettingsManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Export/ExportManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Models/Note.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Components/AudioLevelMeter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Extensions/ViewExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Styles/DesignSystem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/ExportView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/FilesView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/NotesView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/OnboardingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/RecordingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SaveRecordingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SetupView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Utils/AudioUtils.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "EchoScribe",
+      "moduleOutputPath" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/Modules/EchoScribe.swiftmodule",
+      "objects" : [
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ContentView.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/EchoScribeApp.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/Info.plist.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/entitlements.mac.plist.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/TranscriptionManager.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioEffects.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioRecordingManager.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/PermissionManager.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/EchoScribeDataModel.xcdatamodeld.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/NotesManager.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SettingsManager.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ExportManager.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/Note.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioLevelMeter.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ViewExtensions.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/DesignSystem.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ExportView.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/FilesView.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/NotesView.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/OnboardingView.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/RecordingView.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SaveRecordingView.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SettingsView.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SetupView.swift.o",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioUtils.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx13.0",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j16",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "EchoScribe_main",
+        "-color-diagnostics",
+        "-swift-version",
+        "5",
+        "-sdk",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-F",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-I",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-L",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+        "-Xcc",
+        "-F",
+        "-Xcc",
+        "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "echoscribe_3_0"
+      ],
+      "outputFileMapPath" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/EchoScribeApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/Info.plist.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/entitlements.mac.plist.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/TranscriptionManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioEffects.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioRecordingManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/PermissionManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/EchoScribeDataModel.xcdatamodeld.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/NotesManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SettingsManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ExportManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/Note.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioLevelMeter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ViewExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/DesignSystem.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ExportView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/FilesView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/NotesView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/OnboardingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/RecordingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SaveRecordingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SetupView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioUtils.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/Modules/EchoScribe.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/ContentView.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/EchoScribeApp.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/Info.plist",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/entitlements.mac.plist",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/AI/TranscriptionManager.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/AudioEffects.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/AudioRecordingManager.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/PermissionManager.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/EchoScribeDataModel.xcdatamodeld",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/NotesManager.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/SettingsManager.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Export/ExportManager.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Models/Note.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Components/AudioLevelMeter.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Extensions/ViewExtensions.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Styles/DesignSystem.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/ExportView.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/FilesView.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/NotesView.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/OnboardingView.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/RecordingView.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SaveRecordingView.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SettingsView.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SetupView.swift",
+        "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Utils/AudioUtils.swift"
+      ],
+      "tempsPath" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "EchoScribe" : [
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
+      "-module-name",
+      "EchoScribe",
+      "-package-name",
+      "echoscribe_3_0",
+      "-incremental",
+      "-c",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/ContentView.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/EchoScribeApp.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/Info.plist",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/entitlements.mac.plist",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/AI/TranscriptionManager.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/AudioEffects.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/AudioRecordingManager.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/PermissionManager.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/EchoScribeDataModel.xcdatamodeld",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/NotesManager.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/SettingsManager.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Export/ExportManager.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Models/Note.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Components/AudioLevelMeter.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Extensions/ViewExtensions.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Styles/DesignSystem.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/ExportView.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/FilesView.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/NotesView.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/OnboardingView.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/RecordingView.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SaveRecordingView.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SettingsView.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SetupView.swift",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Utils/AudioUtils.swift",
+      "-I",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/Modules",
+      "-target",
+      "arm64-apple-macosx13.0",
+      "-enable-batch-mode",
+      "-index-store-path",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j16",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-module-cache-path",
+      "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "EchoScribe_main",
+      "-color-diagnostics",
+      "-swift-version",
+      "5",
+      "-sdk",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-F",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-I",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-L",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/lib",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks",
+      "-Xcc",
+      "-F",
+      "-Xcc",
+      "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/PrivateFrameworks",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "echoscribe_3_0",
+      "-driver-use-frontend-path",
+      "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "EchoScribe" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "enableAllTraits" : false
+  },
+  "writeCommands" : {
+    "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe-entitlement.plist" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<entitlement-plist>"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<com.apple.security.get-task-allow>"
+        }
+      ],
+      "outputFilePath" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe-entitlement.plist"
+    },
+    "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/EchoScribeApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/Info.plist"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/App/entitlements.mac.plist"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/AI/TranscriptionManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/AudioEffects.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/AudioRecordingManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Audio/PermissionManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/EchoScribeDataModel.xcdatamodeld"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/NotesManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Database/SettingsManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Core/Export/ExportManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Models/Note.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Components/AudioLevelMeter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Extensions/ViewExtensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Styles/DesignSystem.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/ExportView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/FilesView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/NotesView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/OnboardingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/RecordingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SaveRecordingView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SettingsView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/UI/Views/SetupView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/EchoScribe/Utils/AudioUtils.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/sources"
+    },
+    "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioEffects.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioLevelMeter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioRecordingManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/AudioUtils.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/DesignSystem.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/EchoScribeApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/EchoScribeDataModel.xcdatamodeld.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ExportManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ExportView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/FilesView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/Info.plist.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/Note.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/NotesManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/NotesView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/OnboardingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/PermissionManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/RecordingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SaveRecordingView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SettingsManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SettingsView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/SetupView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/TranscriptionManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/ViewExtensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.build/entitlements.mac.plist.o"
+        }
+      ],
+      "outputFilePath" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/EchoScribe.product/Objects.LinkFileList"
+    },
+    "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/gripsockz/Coding Projects/EchoScribe 3.0/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+    }
+  }
+}

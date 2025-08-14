@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>EchoScribe</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.echoscribe.app</string>
+    <key>CFBundleName</key>
+    <string>EchoScribe</string>
+    <key>CFBundleDisplayName</key>
+    <string>EchoScribe</string>
+    <key>CFBundleVersion</key>
+    <string>3.0.0</string>
+    <key>CFBundleShortVersionString</key>
+    <string>3.0.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleSignature</key>
+    <string>????</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSRequiresAquaSystemAppearance</key>
+    <false/>
+    <key>LSApplicationCategoryType</key>
+    <string>public.app-category.productivity</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>EchoScribe needs microphone access to record audio for transcription.</string>
+    <key>NSSystemAdministrationUsageDescription</key>
+    <string>EchoScribe needs system audio access to record system sounds.</string>
+</dict>
+</plist>
